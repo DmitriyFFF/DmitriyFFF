@@ -1,6 +1,5 @@
 <h1 align="center"> Привет всем 👋, меня зовут Дмитрий</h1></br>
-<h2 align="center">⚡ О себе: ⚡</h2>
-<p align="center">Прохожу обучение на курсе "Веб-разработчик плюс" от Яндекс.Практикум</p>
+<p align="center">⚡Прохожу обучение на курсе "Веб-разработчик плюс" от Яндекс.Практикум⚡</p>
 <p align="center">E-mail: dmitriy.ferafontov@yandex.ru</p>
 <p align="center">Telegram: @Dmitriy_Ferafontov</p></br>
 <h2 align="left">📫 Языки и технологии: 📫</h2></br>
@@ -19,7 +18,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" wigth="50" height="50"/> 
 </div></br>
 <h2>Моя статистика</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyFFF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<section>
+  <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyFFF&layout=compact" alt="Most used languages">
+  </div>
+  <div>
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=DmitriyFFF&hide_border=true&border_radius=5&card_width=496" alt="Most used languages">
+  </div>
+</section>
+
+
 
 
 
