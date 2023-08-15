@@ -23,13 +23,10 @@
 <h2>Моя статистика</h2>
 <section>
   <div>
-    <img align="left" width="324" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitriyFFF&theme=github" alt="Most used languages">
-  </div>
+    <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitriyFFF&theme=github" alt="Most used languages">
+  </div>  
   <div>
-    <img align="right" width="324" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitriyFFF&theme=github" alt="Most used languages">
-  </div>
-  <div>
-    <img width="324" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitriyFFF&theme=github" alt="Most used languages">
+    <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitriyFFF&theme=github" alt="My statistics">
   </div>
   <div>
 </section>
