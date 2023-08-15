@@ -20,7 +20,7 @@
 <h2>Моя статистика</h2>
 <section>
   <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyFFF&layout=compact" alt="Most used languages">
+    <img align="left" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=DmitriyFFF&layout=compact" alt="Most used languages">
   </div>
   <div>
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=DmitriyFFF&hide_border=true&border_radius=5&card_width=496" alt="Most used languages">
