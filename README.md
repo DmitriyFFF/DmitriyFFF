@@ -1,8 +1,14 @@
 <h1 align="center"> Привет всем 👋, меня зовут Дмитрий</h1></br>
 <p align="center">⚡Прохожу обучение на курсе "Веб-разработчик плюс" от Яндекс.Практикум⚡</p>
-<p align="center">E-mail: dmitriy.ferafontov@yandex.ru</p>
-<p align="center">Telegram: @Dmitriy_Ferafontov</p></br>
-<div>
+<p align="center">⚡Хочу работать в команде опытных разработчиков над интересными проектами⚡</p>
+<p align="center">⚡Готов к постоянному обучению и развитию навыков программирования⚡</p></br>
+<div align="center">
+  <p>E-mail: dmitriy.ferafontov@yandex.ru</p>
+  <a href="https://t.me/Dmitriy_Ferafontov">
+    <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</div></br>
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=700&height=70&lines=IF+IT+WORKS%2C+DON'T+TOUCH+IT">
 </div></br>
 <h2 align="left">📫 Языки и технологии: 📫</h2></br>
