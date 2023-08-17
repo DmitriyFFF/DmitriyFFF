@@ -23,7 +23,7 @@
 <section>
   <h2 align="left">🔭 Мои контакты 🔭</h2>
   <div align="left">
-    <a href="lupus585.df@gmail.com">
+    <a href="mailto:lupus585.df@gmail.com">
       <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">      
     </a>
     <a href="https://t.me/Dmitriy_Ferafontov">
