@@ -20,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" wigth="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" wigth="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" wigth="50" height="50"/> 
+  <img src="https://api.iconify.design/vscode-icons:file-type-cypress.svg?color=%23888888" wigth="50" height="50"/>  
 </div></br></br>
 <section>
   <h2 align="left">🔭 Мои контакты 🔭</h2>
