@@ -34,13 +34,16 @@
   </div>
 </section></br></br>
 <h2>💬 Моя статистика 💬</h2>
+ <div>
+    <img align="center" src="https://www.codewars.com/users/XJarJarBinksX/badges/large?theme=dark" width="400" alt="My Codewars progress">
+  </div></br>
 <section>
   <div>
     <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitriyFFF&theme=github" width="400" alt="Most used languages">
   </div>  
   <div>
     <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitriyFFF&theme=github" width="400" alt="My statistics">
-  </div> 
+  </div>  
 </section>
 
 
