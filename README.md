@@ -42,6 +42,8 @@
     <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitriyFFF&theme=github" width="400" alt="My statistics">
   </div>
   <div>
+    ![Codewars](https://github.r2v.ch/codewars?user=USERNAME&stroke=COLOR)
+  </div>
 </section>
 
 
